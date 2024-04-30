@@ -88,6 +88,8 @@
     }
 
     div.social>a:hover {
+        background-color: hsl(75, 94%, 57%);        
+        color: black;
         border: 1px solid hsla(0, 0%, 0%, 0.884);
         transform: translate(-3px, -3px);
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.678);
